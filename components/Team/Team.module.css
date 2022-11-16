@@ -1,0 +1,18 @@
+.navItem {
+    font-weight: normal !important;
+    color: var(--chakra-colors-gray-300) !important;
+    transition: color 0.2s ease-in-out;
+}
+.navItem:hover {
+    text-decoration: none !important;
+    color: var(--chakra-colors-gray-100) !important;
+}
+.navItem a{
+    font-weight: normal !important;
+    color: var(--chakra-colors-gray-300) !important;
+    transition: color 0.2s ease-in-out;
+}
+.navItem a:hover {
+    text-decoration: none !important;
+    color: var(--chakra-colors-gray-100) !important;
+}
